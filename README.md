@@ -1,9 +1,9 @@
 # Belly Button Biodiversity
 
 ## Project Overview
-Navels of people across the country were sampled to identify the bacterial species that colonize the belly button. In line with ethics and to protect test subject's privacy, they have been assigned to test ID number. The test ID number will then be used to allow participants and other reseacrhers to see the type of bacterial species that thrive in participants' belly button. 
+Navels of people across the country were sampled to identify the bacterial species that colonize their belly button. In line with ethics and to protect the test subject's privacy, they have been assigned to test ID number. The test ID number will then be used to allow participants and other reseacrhers to see the type of bacterial species that thrive in participants' belly button. 
 
-To visualize the data gathered from the research, a webpage was created using JavaScript, specifically Plotly. Plotly is JavaScript visualization library that enables the creation of data visualization that are attractive, accessible and interactive which can increase audience's comprehension of the data. 
+To visualize the data gathered from the research, a webpage was created using JavaScript, specifically Plotly. Plotly is a JavaScript visualization library that enables the creation of data visualization that are attractive, accessible and interactive which can increase audience's comprehension of the data. 
 
 ## Results
 For preview of the webpage, please see the image below. The published webpage can be accessed by clicking this hyperlink: [Belly Button Biodiversity Dashboard](https://kntln.github.io/Belly_Button_Biodiversity/) 
